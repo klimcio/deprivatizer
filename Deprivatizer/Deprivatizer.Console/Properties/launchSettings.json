@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Deprivatizer.Cmd": {
+      "commandName": "Project",
+      "commandLineArgs": "cos.xml -super \"to jest test\""
+    }
+  }
+}
